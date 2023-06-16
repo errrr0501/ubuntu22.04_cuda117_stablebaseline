@@ -1,0 +1,26 @@
+# install python dep
+pyrealsense2
+tf
+# install some pip packages needed for testing
+# argcomplete 
+# flake8-blind-except 
+# flake8-builtins 
+# flake8-class-newline 
+# flake8-comprehensions 
+# flake8-deprecated 
+# flake8-docstrings 
+# flake8-import-order 
+# flake8-quotes 
+# pytest-repeat 
+# pytest-rerunfailures 
+# pytest
+#PPO reinforcement learning depend
+torch
+gym
+stable-baselines3
+pyglet==1.5.27
+tensorboard
+pybullet
+numpy-quaternion
+open3d
+numba
